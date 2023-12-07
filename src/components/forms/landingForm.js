@@ -17,7 +17,7 @@ import React from "react";
         <View style={styles.content}>
           <View style={styles.contentHeader}>
             <Text style={styles.title}>
-              Welcome to the
+              Welcome to
               <View style={styles.appName}>
                 <Text style={styles.appNameText}>Shop n'  Bite</Text>
               </View>
@@ -52,9 +52,9 @@ import React from "react";
     },
     hero: {
       backgroundColor: '#DC661F',
-      margin: 12,
-      borderRadius: 16,
-      padding: 16,
+      margin: 1 ,
+      borderRadius: 5,
+      padding: 10,
       height: "50%"
     },
     heroImage: {
