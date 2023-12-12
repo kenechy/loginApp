@@ -100,11 +100,11 @@ import React from "react";
     buttonText: {
       fontSize: 20,
       fontWeight: '500',
-      color: '#FFBD59',
+      color: '#fff',
     },
     button: {
         flexDirection: 'row',
-        backgroundColor: '#7B3911',
+        backgroundColor: '#DC661F',
         paddingVertical: 15,
         paddingHorizontal: 15,
         alignItems: 'center',
